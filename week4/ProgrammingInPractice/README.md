@@ -1,2 +1,0 @@
-# ProgrammingInPractice
-In class activity
